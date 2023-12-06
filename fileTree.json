@@ -1,0 +1,463 @@
+{
+  ".": {
+    "type": "folder",
+    "role": "folder",
+    "hidden": true,
+    "nlink": 3,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.976Z",
+    "children": {}
+  },
+  "cv_en.pdf": {
+    "type": "file",
+    "role": "pdf",
+    "hidden": false,
+    "nlink": 1,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.929Z"
+  },
+  "cv_fr.pdf": {
+    "type": "file",
+    "role": "pdf",
+    "hidden": false,
+    "nlink": 1,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.943Z"
+  },
+  "github": {
+    "type": "file",
+    "role": "bin",
+    "hidden": false,
+    "nlink": 1,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.946Z"
+  },
+  "projects": {
+    "type": "folder",
+    "role": "folder",
+    "hidden": false,
+    "nlink": 8,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.976Z",
+    "children": {
+      ".": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": true,
+        "nlink": 8,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.976Z",
+        "children": {}
+      },
+      "..": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": true,
+        "nlink": 3,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.976Z",
+        "children": {}
+      },
+      "darapp": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.969Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.969Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "29entertainment.gif": {
+            "type": "file",
+            "role": "gif",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.969Z"
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.969Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.969Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.969Z"
+          },
+          "qrcodes.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          }
+        }
+      },
+      "hotkeys.help": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.973Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "screenshots.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          }
+        }
+      },
+      "op_clac": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.973Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "views1.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "views2.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          }
+        }
+      },
+      "providenceprod.tv": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.976Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.973Z"
+          },
+          "home.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "player_page.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          }
+        }
+      },
+      "vector": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.976Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "mockup.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          }
+        }
+      },
+      "words_royale": {
+        "type": "folder",
+        "role": "folder",
+        "hidden": false,
+        "nlink": 2,
+        "blksize": 4096,
+        "mtime": "2023-12-06T16:11:49.976Z",
+        "children": {
+          ".": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 2,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "..": {
+            "type": "folder",
+            "role": "folder",
+            "hidden": true,
+            "nlink": 8,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z",
+            "children": {}
+          },
+          "during_game.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "en.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "fr.md": {
+            "type": "file",
+            "role": "md",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "metadata.yml": {
+            "type": "file",
+            "role": "yml",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          },
+          "start_menu.png": {
+            "type": "file",
+            "role": "png",
+            "hidden": false,
+            "nlink": 1,
+            "blksize": 4096,
+            "mtime": "2023-12-06T16:11:49.976Z"
+          }
+        }
+      }
+    }
+  },
+  "test.txt": {
+    "type": "file",
+    "role": "txt",
+    "hidden": false,
+    "nlink": 1,
+    "blksize": 4096,
+    "mtime": "2023-12-06T16:11:49.976Z"
+  }
+}
