@@ -1,6 +1,0 @@
-user-agent: *
-allow: /
-disallow: /files
-disallow: /formal
-disallow: /fileTree
-disallow: /hello.png
